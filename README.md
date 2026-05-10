@@ -28,6 +28,8 @@
 - Networking Basics
 - Local Storage
 
+### Design Tools
+- UI/UX Design(Figma)
 ---
 
 # 📂 Projects
